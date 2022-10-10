@@ -42,7 +42,7 @@ export default {
                 width: 288,
                 height: 512,
                 scale: 8,
-                step: 22
+                steps: 22
             }
         },
         website: {
